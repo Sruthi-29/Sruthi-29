@@ -1,5 +1,5 @@
 # My Profile <br>
-Hi, this is my profile showcasing my skills as a first year Computer Science student studying at Durham University. <br>
+Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Computer Science student studying at Durham University. <br>
 [My Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 ## Programming Languages <br>
@@ -20,6 +20,6 @@ Hi, this is my profile showcasing my skills as a first year Computer Science stu
 * Logic (SAT Solvers) and Digital Electronics <br>
 
 # Achievements <br>
-* DurHack Winner for *'Most Creative Use of Twilio'* and *'Atom Bank User Experience Challenge'*
+* DurHack Winner for *'Most Creative Use of Twilio'* and *'Atom Bank User Experience Challenge'* at university level, and winner of several hackathons in high school level.
 [Devpost link to view project](https://devpost.com/software/sentiment-analyser-w1qlmy)
 
