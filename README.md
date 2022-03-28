@@ -14,12 +14,13 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 
 ## Skills developed: <br>
 ### Year 1 <br>
-* Web Developement (HTML,CSS,JS,ReactJS)
+* Web Developement (HTML,CSS,JS,ReactJS) 
 * Algorithms and Data Structures 
 * Assembly and Machine languages (LMC, MIPS)
 * Logic (SAT Solvers) and Digital Electronics <br>
 
 # Achievements <br>
-* DurHack Winner for *'Most Creative Use of Twilio'* and *'Atom Bank User Experience Challenge'* at university level, and winner of several hackathons in high school level.
-[Devpost link to view project](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* DurHack Winner for *'Most Creative Use of Twilio'* and *'Atom Bank User Experience Challenge'* at university level, and winner of several hackathons in high school level. [Devpost link to view project](https://devpost.com/software/sentiment-analyser-w1qlmy)
+*  Worked collaboratively to develop three web applications over the course of my first year at university. 
+
 
