@@ -1,4 +1,4 @@
-# My-Profile <br>
+# My Profile <br>
 Hi, this is my profile showcasing my skills as a first year Computer Science student studying at Durham University. <br>
 [My Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
