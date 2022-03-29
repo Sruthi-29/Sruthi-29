@@ -28,4 +28,4 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Report Card Generator and Attendance Tracker** : <br>
 An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. 
-* **Contact Manager and other web applications: <br>
+* **Contact Manager and other web applications made using React and JS** <br>
