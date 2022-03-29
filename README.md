@@ -19,8 +19,8 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 * Assembly and Machine languages (LMC, MIPS)
 * Logic (SAT Solvers) and Digital Electronics <br>
 
-# Achievements <br>
-* DurHack Winner for *'Most Creative Use of Twilio'* and *'Atom Bank User Experience Challenge'* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+## Achievements <br>
+* DurHack Winner for *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
 
