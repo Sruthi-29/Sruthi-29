@@ -23,4 +23,9 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 * DurHack Winner for *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
-
+## Projects <br>
+* **Sentiment Analyser** : <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. <br>
+[View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* **Report Card Generator and Attendance Tracker** : <br>
+An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. 
+* **Contact Manager and other web applications: <br>
