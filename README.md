@@ -12,7 +12,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 </p>
 <br>
 
-## Skills developed: <br>
+## Skills developed <br>
 ### Year 1 <br>
 * Web Developement (HTML,CSS,JS,ReactJS) 
 * Algorithms and Data Structures 
