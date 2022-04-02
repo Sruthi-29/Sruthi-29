@@ -3,12 +3,19 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 ## Programming Languages <br>
+
 ### Advanced 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
+</p>
+
 ### Intermediate 
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="70"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="70"/>   
+</p>
+
 ### Beginner 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="70"/>
 <br>
