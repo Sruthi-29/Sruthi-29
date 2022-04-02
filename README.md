@@ -27,4 +27,4 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Report Card Generator and Attendance Tracker**  <br>
 An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. 
-* **Contact Manager** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
+* **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
