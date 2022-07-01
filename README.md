@@ -20,15 +20,16 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="70"/>
 <br>
 
-## Skills developed <br>
+## Skills <br>
 ### Year 1 <br>
-* Web Developement (HTML,CSS,JS,ReactJS) 
+* Web Development (HTML,CSS,JS,ReactJS) 
 * Algorithms and Data Structures 
 * Assembly and Machine languages (LMC, MIPS)
 * Logic (SAT Solvers) and Digital Electronics <br>
 * Discrete Mathematics, Linear Algebra and Calculus
 
 ## Achievements <br>
+* Software Engineering Internship at a biopharma company developing a useful web application, in my first year.
 * DurHack Winner for *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
