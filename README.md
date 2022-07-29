@@ -21,7 +21,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 </p>
 
 ### Beginner 
-<img src="https://www.django-rest-framework.org/img/logo.png" width="70/>
+<img src="https://www.django-rest-framework.org/img/logo.png](https://miro.medium.com/max/700/1*MQ-Lf8tmtfa-pumN2Sh0cw.png" width="70 />
 <br>
 
 ## Skills <br>
