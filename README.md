@@ -11,7 +11,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="70"/>
   <img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png" width="70"/>
-</p
+</p>
 ### Intermediate 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="70"/>
