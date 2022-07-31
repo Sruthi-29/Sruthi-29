@@ -10,7 +10,6 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="70"/>
-  <img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png" width="70"/>
 </p>
 <br>
 
@@ -39,6 +38,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
 ## Projects <br>
+* **Gilesgate** A processing dashboard web application developed to track the progress of tasks in Waters Corporation. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
 * **Report Card Generator and Attendance Tracker**  <br>
