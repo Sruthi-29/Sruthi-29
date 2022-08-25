@@ -7,6 +7,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 ### Experienced 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70"/>
+  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" width="70/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="70"/>
