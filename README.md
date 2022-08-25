@@ -17,6 +17,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 ### Intermediate 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="70"/>
+  <img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" width="70/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="70"/> 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="70"/>
 </p>
