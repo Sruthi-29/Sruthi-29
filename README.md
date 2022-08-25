@@ -41,7 +41,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
 ## Projects <br>
-* **Gilesgate** A processing dashboard web application developed to track the progress of tasks in Waters Corporation. Tech Stack: React, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
+* **Gilesgate** A processing dashboard web application developed to track the progress of tasks in Waters Corporation. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
 * **Report Card Generator and Attendance Tracker**  <br>
