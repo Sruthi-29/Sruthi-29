@@ -11,7 +11,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="70"/>
-  <img src="[https://reactjs.org/logo-og.png](https://flyclipart.com/thumb2/react-logo-png-transparent-vector-221723.png)" width="70"/>
+  <img src="https://reactjs.org/logo-og.png](https://flyclipart.com/thumb2/react-logo-png-transparent-vector-221723.png" width="70"/>
 </p>
 <br>
 
