@@ -28,6 +28,15 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 <br>
 
 ## Skills <br>
+
+### Year 2 <br>
+* Artifical Intelligence 
+* Software Engineering
+* Data Science
+* Programming Paradigms
+* Theory of Computation
+* Networks and Systems
+
 ### Year 1 <br>
 * Web Development (HTML,CSS,JS,ReactJS) 
 * Algorithms and Data Structures 
@@ -35,8 +44,9 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Com
 * Logic (SAT Solvers) and Digital Electronics <br>
 * Discrete Mathematics, Linear Algebra and Calculus
 
+
 ## Achievements <br>
-* Software Engineering Internship at Waters Corporation developing a useful web application for internal use for the company, in my first year. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
+* Software Engineering Internship at Waters Corporation developing a useful web application for internal use for the company, in my first year. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology. I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
 * DurHack Winner for *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 *  Worked collaboratively to develop three web applications in my first year at university. 
 
