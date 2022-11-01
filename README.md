@@ -1,5 +1,5 @@
 # My Profile <br>
-Hi, I am Sruthi, and this is my profile showcasing my skills as a first year Computer Science student studying at Durham University. <br>
+Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. <br>
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 ## Programming Languages <br>
