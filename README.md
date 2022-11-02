@@ -2,6 +2,8 @@
 Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. <br>
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sruthi-29)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Programming Languages <br>
 
 ### Experienced 
