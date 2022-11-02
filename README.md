@@ -1,12 +1,12 @@
 # My Profile <br>
 Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. <br>
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Programming Languages <br>
 
 ### Experienced 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70"/>
+  <img src="https://upload.wikimedia.org/wikip[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)edia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" width="70/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
