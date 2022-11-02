@@ -5,6 +5,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate ye
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sruthi-29)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages <br>
 
