@@ -1,7 +1,7 @@
-# My Profile <br>
+# Profile <br>
 Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
-## Programming Languages <br>
+## Skills <br>
 
 ### Experienced 
 <p>
@@ -25,8 +25,6 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate ye
 ### Beginner 
 <img src= "https://www.django-rest-framework.org/img/logo.png" width="70" />                 
 <br>
-
-## Skills <br>
 
 ### Year 2 <br>
 * Artifical Intelligence 
