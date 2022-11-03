@@ -1,5 +1,6 @@
 # Profile <br>
 Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Skills <br>
 
