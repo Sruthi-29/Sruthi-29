@@ -28,10 +28,10 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate ye
 <br>
 
 ### Year 2 <br>
-* Artifical Intelligence 
-* Software Engineering
-* Data Science
-* Programming Paradigms
+* Artifical Intelligence (ML)
+* Software Engineering 
+* Data Science 
+* Programming Paradigms (C,C++,Haskell)
 * Theory of Computation
 * Networks and Systems
 
