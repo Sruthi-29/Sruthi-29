@@ -44,13 +44,13 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate ye
 
 
 ## Achievements <br>
-* Software Engineering Internship at Waters Corporation developing a useful web application for internal use for the company, in my first year. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology. I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
-* DurHack Winner for *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, and winner of several hackathons at high school level. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* Software Engineering Internship: Developed a useful web application for internal use for a biotech company, in my first year of degree. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology. I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
+* DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch Hackathon 2020 (Dubai). Featured in Gulf News. 
-*  Worked collaboratively to develop three web applications in my first year at university. 
+*  Worked collaboratively to develop several web applications during my degree.
 
 ## Projects <br>
-* **Gilesgate** A processing dashboard web application developed to track the progress of tasks in Waters Corporation. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
+* **Gilesgate** A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
 * **Report Card Generator and Attendance Tracker**  <br>
