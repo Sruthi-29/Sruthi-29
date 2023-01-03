@@ -1,7 +1,6 @@
 # Profile <br>
 Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have completed two internships as a Data Scientist and Software Engineer Intern respectively, in the first two years of my degree. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Skills <br>
 
 ### Experienced 
