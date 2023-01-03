@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate year Computer Science student studying at Durham University. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
+Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am a Group Transformation Intern at Union Bank of Switzerland, London, focussing on emerging technologies like Data Science, and Artifical Intelligence. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Skills <br>
@@ -50,6 +50,7 @@ Hi, I am Sruthi, and this is my profile showcasing my skills as a penultimate ye
 *  Worked collaboratively to develop several web applications during my degree.
 
 ## Projects <br>
+* **Machine Learning and Data Science Projects** Estimation of obesity levels applying data transformation and various machine learning algorithms like K nearest neighbours. 
 * **Gilesgate** A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
