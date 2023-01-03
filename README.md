@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am currently a Group Transformation Intern at Union Bank of Switzerland, London Office, focussing on emerging technologies like Data Science, and Artifical Intelligence. I also completed an internship in my first year as a Software Engineer Intern at Waters Corporation, Newcastle. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
+Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have completed two internships as a Data Scientist and Software Engineer Intern respectively, in the first two years of my degree. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Skills <br>
@@ -45,8 +45,10 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am cur
 
 
 ## Achievements <br>
-* Data Science Intern at UBS
-* Software Engineering Internship: Developed a useful web application for internal use for a biotech company, in my first year of degree. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology. I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
+* Data Science Intern (Penultimate year)
+* Software Engineering Internship (First year): Developed a web application to keep track of status of tasks within the company. 
+Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
+I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
 * DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch Hackathon 2020 (Dubai). Featured in Gulf News. 
 *  Worked collaboratively to develop several web applications during my degree.
