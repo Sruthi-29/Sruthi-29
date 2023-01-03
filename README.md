@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am a Group Transformation Intern at Union Bank of Switzerland, London, focussing on emerging technologies like Data Science, and Artifical Intelligence. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
+Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am currently a Group Transformation Intern at Union Bank of Switzerland, London Office, focussing on emerging technologies like Data Science, and Artifical Intelligence. I also completed an internship in my first year as a Software Engineer Intern at Waters Corporation, Newcastle. [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 ## Skills <br>
@@ -12,6 +12,7 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am a G
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="70"/>
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="70"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="70"/>
+ 
 </p>
 <br>
 
@@ -44,16 +45,18 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I am a G
 
 
 ## Achievements <br>
+* Data Science Intern at UBS
 * Software Engineering Internship: Developed a useful web application for internal use for a biotech company, in my first year of degree. Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology. I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
 * DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch Hackathon 2020 (Dubai). Featured in Gulf News. 
 *  Worked collaboratively to develop several web applications during my degree.
 
 ## Projects <br>
-* **Machine Learning and Data Science Projects** Estimation of obesity levels applying data transformation and various machine learning algorithms like K nearest neighbours. 
-* **Gilesgate** A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
+* **Machine Learning and Data Science Projects** <br> Estimation of obesity levels applying data transformation and various machine learning algorithms like K nearest neighbours. 
+* **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
+* **IBM Watson Chatbot** <br> Developed a chatbot using IBM Watson for natural language learning in an agile (scrum) environment and integrated it to a web app. The chatbot suggests relevant courses from IBM Skills Build based on the user's interests and experience. 
 * **Report Card Generator and Attendance Tracker**  <br>
 An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. [View Project on Devpost](https://devpost.com/software/eduplot)<br>
 
