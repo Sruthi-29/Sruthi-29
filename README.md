@@ -31,7 +31,7 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have c
 * Artifical Intelligence (ML)
 * Software Engineering 
 * Data Science 
-* Programming Paradigms (C,C++,Haskell)
+* Programming Paradigms (C,Haskell)
 * Theory of Computation
 * Networks and Systems
 
