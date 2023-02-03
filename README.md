@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I am currently a penultimate year Computer Science Student at Durham University. During my degree, I have undertaken two internships as a Data Scientist at Union Bank of Switzerland, London and Software Engineer Intern at Waters Corporation, Newcastle respectively.
+Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I am currently a penultimate year Computer Science Student at Durham University. During my degree, I have undertaken two internships. One as a Data Scientist at Union Bank of Switzerland, London and the other as a Software Engineer Intern at Waters Corporation, Newcastle.
 
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/)
 
