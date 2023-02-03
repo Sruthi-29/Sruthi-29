@@ -44,12 +44,11 @@ I mastered the use of Cypress for End-to-End Automated Software Testing of the w
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
 
 ## Projects <br>
+* **IBM Watson Chatbot** <br> Developed a Natural Language Learning Assistant using IBM Watson in an agile (scrum) environment and integrated it to a web app, for a university project. The chatbot suggests relevant courses from IBM Skills Build based on the user's interests and experience. 
 * **Machine Learning Project** <br> Estimation of obesity levels among people based on various factors. Applied data transformation techniques and various machine learning algorithms like K nearest neighbours. 
 * **Data Science Project** <br> Classification of eyes into healthy, suspicious or glaucomatous based on several factors. Image Processing of patient's eyes was done using OpenCV to remove noise and distortion, inpaint missing regions, and improve brightness. Data Cleaning and Preparation techniques were also performed.
-* **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
-* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile). My main contribution for this group project was implementation of End to End Automated Software Testing using Cypress and the frontend.
+* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution for this group project was implementation of Twilio for the backend. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using ReactJS. <br>
-* **IBM Watson Chatbot** <br> Developed a Natural Language Learning Assistant using IBM Watson in an agile (scrum) environment and integrated it to a web app. The chatbot suggests relevant courses from IBM Skills Build based on the user's interests and experience. 
 * **Report Card Generator and Attendance Tracker**  <br>
 An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. [View Project on Devpost](https://devpost.com/software/eduplot)<br>
-
