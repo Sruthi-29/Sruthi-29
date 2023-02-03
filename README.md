@@ -40,7 +40,7 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 * Software Engineering Internship at Waters (First year): Developed a web application to keep track of status of tasks within the company. 
 Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
 I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
-* DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level, [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level.
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
 
 ## Projects <br>
