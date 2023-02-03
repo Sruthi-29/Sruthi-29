@@ -35,7 +35,7 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 
 
 ## Achievements <br>
-* Featured in Gulf News, UAE for hackathon victory.
+* Featured in Gulf News for hackathon victory.
 * Data Science Intern at UBS (Penultimate year)
 * Software Engineering Internship at Waters (First year): Developed a web application to keep track of status of tasks within the company. 
 Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
