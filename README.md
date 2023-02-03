@@ -45,7 +45,7 @@ I mastered the use of Cypress for End-to-End Automated Software Testing of the w
 
 ## Projects <br>
 * **Machine Learning Project** <br> Estimation of obesity levels among people based on various factors. Applied data transformation techniques and various machine learning algorithms like K nearest neighbours. 
-* **Data Science Project** <br> Classification of eyes into healthy, suspicious or glaucomatous based on several other factors. Image Processing of patient's eyes was done using OpenCV to remove noise, inpaint missing regions, improve brightness and remove distortion. Data Cleaning and Preparation techniques were also used at the start.
+* **Data Science Project** <br> Classification of eyes into healthy, suspicious or glaucomatous based on several factors. Image Processing of patient's eyes was done using OpenCV to remove noise and distortion, inpaint missing regions, and improve brightness. Data Cleaning and Preparation techniques were also performed.
 * **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
 * **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
