@@ -2,21 +2,20 @@
 Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have completed two internships as a Data Scientist at Union Bank of Switzerland and Software Engineer Intern at Waters Corporation, Newcastle respectively, in the first two years of my degree. [View Linkedin Profile]
 (https://www.linkedin.com/in/sruthi-s-885b11190/) <br>
 
-[![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sruthi-29)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sruthi-29)](https://git.io/streak-stats)
 
 ### Programming Languages and Tools<br>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="55"  width="55"/>
-  <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" height="55"  width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="55" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png "height="55"  width="55"/>
-  <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" height="55"  width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" height="55"  width="55"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="55"  width="55"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" height="55"  width="55"/>
-  <img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" height="55"  width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="55"  width="55"/> 
-  <img src= "https://www.django-rest-framework.org/img/logo.png" height="55" width="55" />                 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="55" width="55"/>
+  <img src="https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg" alt="Cypress" height="55" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="55" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="Git" height="55" width="55"/>
+  <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="" height="55" width="55"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="ReactJS" height="55" width="55"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="" height="55" width="55"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="55" width="55"/>
+  <img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="" height="55" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="55" width="55"/>                
 </div>
 
 ### Year 2 <br>
