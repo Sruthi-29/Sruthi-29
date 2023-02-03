@@ -18,16 +18,16 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have u
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="55" width="55"/>
 </div>
 
-### Year 2 <br>
-* Artifical Intelligence (ML)
+### Year 2 Modules<br>
+* Artifical Intelligence (Machine Learning, AI Search Algorithms, Bias in AI)
 * Software Engineering 
-* Data Science 
+* Data Science (Data Collection and Cleaning using pandas, Image Processing using OpenCV, Computer Graphics, Probability and Statistics)
 * Programming Paradigms (C,Haskell)
-* Theory of Computation
-* Networks and Systems
+* Theory of Computation 
+* Networks and Systems (Cyber Security, Networks, Databases, Distributed Systems)
 
-### Year 1 <br>
-* Web Development (HTML,CSS,JS,ReactJS) 
+### Year 1 Modules<br>
+* Web Development (HTML,CSS,JS,ReactJS,NodeJS) 
 * Algorithms and Data Structures 
 * Assembly and Machine languages (LMC, MIPS)
 * Logic (SAT Solvers) and Digital Electronics <br>
