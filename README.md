@@ -48,7 +48,7 @@ I mastered the use of Cypress for End-to-End Automated Software Testing of the w
 * **Data Science Project** <br> Classification of eyes into healthy, suspicious or glaucomatous based on several factors. Image Processing of patient's eyes was done using OpenCV to remove noise and distortion, inpaint missing regions, and improve brightness. Data Cleaning and Preparation techniques were also performed.
 * **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile).
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
-* **Phone Directory** and other web applications made using React and JS respectively. Check out the pinned GitHub repositories for the same below.<br>
+* **Phone Directory** and other web applications made using ReactJS. <br>
 * **IBM Watson Chatbot** <br> Developed a Natural Language Learning Assistant using IBM Watson in an agile (scrum) environment and integrated it to a web app. The chatbot suggests relevant courses from IBM Skills Build based on the user's interests and experience. 
 * **Report Card Generator and Attendance Tracker**  <br>
 An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. [View Project on Devpost](https://devpost.com/software/eduplot)<br>
