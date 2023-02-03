@@ -14,7 +14,8 @@ Hi, I am Sruthi, and this is my profile showcasing my technical skills. I have c
   <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" height="55" width="55"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="ReactJS" height="55" width="55"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="55" width="55"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="55" width="55"/>              
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" height="55" width="55"/>     
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="55" width="55"/>
 </div>
 
 ### Year 2 <br>
