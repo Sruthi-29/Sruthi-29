@@ -21,22 +21,22 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 ### Year 2 Modules<br>
 * Artifical Intelligence (Machine Learning, AI Search Algorithms, Bias in AI)
 * Software Engineering 
-* Data Science (Data Collection and Cleaning using pandas, Image Processing using OpenCV, Computer Graphics, Probability and Statistics)
-* Programming Paradigms (C,Haskell)
+* Data Science (Data Collection and Cleaning using pandas, Image Processing using OpenCV, Computer Graphics using WebGL, Probability and Statistics)
+* Programming Paradigms (C, C++, Haskell)
 * Theory of Computation 
 * Networks and Systems (Cyber Security, Networks, Databases, Distributed Systems)
 
 ### Year 1 Modules<br>
 * Web Development (HTML,CSS,JS,ReactJS,NodeJS) 
 * Algorithms and Data Structures 
-* Assembly and Machine languages (LMC, MIPS)
-* Logic (SAT Solvers) and Digital Electronics <br>
+* Assembly and Machine languages
+* Digital Electronics, Databases
 * Discrete Mathematics, Linear Algebra and Calculus
 
 
-## Achievements <br>
+## Milestones <br>
 * Featured in Gulf News for hackathon victory.
-* Data Science Intern at UBS (Penultimate year)
+* Group Transformation Intern at UBS (Penultimate year)
 * Software Engineering Internship at Waters (First year): Developed a web application to keep track of status of tasks within the company. 
 Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
 I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
