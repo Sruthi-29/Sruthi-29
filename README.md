@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I am currently a penultimate year Computer Science Student at Durham University. During my degree, I have undertaken two internships. One as a Data Scientist at Union Bank of Switzerland, London and the other as a Software Engineer Intern at Waters Corporation, Newcastle.
+Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I am currently a penultimate year Computer Science Student at Durham University. 
 
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/)
 
@@ -36,10 +36,6 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 
 ## Milestones <br>
 * Featured in Gulf News for hackathon victory.
-* Group Transformation Intern at UBS (Penultimate year)
-* Software Engineering Internship at Waters (First year): Developed a web application to keep track of status of tasks within the company. 
-Tech Stack: React, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum, an Agile methodology.
-I mastered the use of Cypress for End-to-End Automated Software Testing of the web application.
 * DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level.
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
 
