@@ -18,33 +18,13 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="55" width="55"/>
 </div>
 
-### Year 2 Modules<br>
-* Artifical Intelligence (Machine Learning, AI Search Algorithms, Bias in AI)
-* Software Engineering 
-* Data Science (Data Collection and Cleaning using pandas, Image Processing using OpenCV, Computer Graphics using WebGL, Probability and Statistics)
-* Programming Paradigms (C, C++, Haskell)
-* Theory of Computation 
-* Networks and Systems (Cyber Security, Networks, Databases, Distributed Systems)
-
-### Year 1 Modules<br>
-* Web Development (HTML,CSS,JS,ReactJS,NodeJS) 
-* Algorithms and Data Structures 
-* Assembly and Machine languages
-* Digital Electronics, Databases
-* Discrete Mathematics, Linear Algebra and Calculus
-
-
 ## Milestones <br>
 * Featured in Gulf News for hackathon victory.
 * DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level.
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
 
 ## Projects <br>
-* **IBM Watson Chatbot** <br> Developed a Natural Language Learning Assistant using IBM Watson in an agile (scrum) environment and integrated it to a web app, for a university project. The chatbot suggests relevant courses from IBM Skills Build based on the user's interests and experience. 
-* **Machine Learning Project** <br> Estimation of obesity levels among people based on various factors. Applied data transformation techniques and various machine learning algorithms like K nearest neighbours. 
-* **Data Science Project** <br> Classification of eyes into healthy, suspicious or glaucomatous based on several factors. Image Processing of patient's eyes was done using OpenCV to remove noise and distortion, inpaint missing regions, and improve brightness. Data Cleaning and Preparation techniques were also performed.
-* **Gilesgate** <br> A processing dashboard web application developed to track the progress of tasks. Tech Stack: ReactJS, Cypress for Automated Software Testing, Django, MySQL, git, GitHub, GitHub Actions and Projects using Scrum (Agile). My main contribution for this group project was the implementation of End to End Automated Software Testing using Cypress and the frontend.
-* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution for this group project was the implementation of Twilio for the backend. [View Project on Devpost](https://devpost.com/software/sentiment-analyser-w1qlmy)
+* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution for this group project was the implementation of Twilio for the backend. 
 * **Phone Directory** and other web applications made using ReactJS. <br>
 * **Report Card Generator and Attendance Tracker**  <br>
-An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. [View Project on Devpost](https://devpost.com/software/eduplot)<br>
+An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. <br>
