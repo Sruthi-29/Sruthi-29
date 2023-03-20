@@ -26,7 +26,7 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 * Versatile, Genius and Specialist Awards in high school.
 
 ## Projects <br>
-* **Data Science and Machine Learning Projects** <br>Image Processing of eyes using OpenCV, Data Cleaning and Analysis using pandas and seaborn. K-Nearest Neighbours algorithm implementation to train a model to estimate obesity levels among people, with high accuracy. 
+* **Data Science and Machine Learning University Projects** <br> Image Processing of eyes using OpenCV, Data Cleaning and Analysis using pandas and seaborn. K-Nearest Neighbours algorithm implementation to train a model to estimate obesity levels among people, with high accuracy. 
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution for this group project was the implementation of Twilio for the backend. 
 * **Phone Directory** and other web applications made using ReactJS. <br>
 * **Report Card Generator and Attendance Tracker**  <br>
