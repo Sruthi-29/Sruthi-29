@@ -19,9 +19,9 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 </div>
 
 ## Milestones <br>
-* Succesfully took part in two internships during my degree.
-* Featured in Gulf News for hackathon victory.
-* DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level.
+* Succesfully completed two internships during my degree (UBS and Waters).
+* Featured in Gulf News for Murdoch hackathon victory.
+* DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level (UK).
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
 * Versatile, Genius and Specialist Awards in high school.
 
