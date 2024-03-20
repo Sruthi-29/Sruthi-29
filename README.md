@@ -19,16 +19,16 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 </div>
 
 ## Milestones <br>
-* Succesfully completed two internships during my degree (UBS and Waters).
-* Featured in Gulf News for Murdoch hackathon victory.
+* Completed two technology internships during my 3-year degree.
+* Featured in Gulf News for Murdoch University Dubai Hackathon victory.
 * DurHack Winner of Sponsor Challenges : *Most Creative Use of Twilio* and *Atom Bank User Experience Challenge* at university level (UK).
 * Winner of TechnoCare Hackathon 2021 (India) and Murdoch University Hackathon 2020 (Dubai). 
-* Versatile, Genius and Specialist Awards in high school.
+* Won the Versatile, Genius and Specialist Awards in high school.
 
 ## Projects <br>
 * **Data Science and Machine Learning University Projects** <br> Image Processing of eyes using OpenCV, Data Cleaning and Analysis using pandas and seaborn. K-Nearest Neighbours algorithm implementation to train a model to estimate obesity levels among people, with high accuracy. 
-* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate response in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution for this group project was the implementation of Twilio for the backend. 
+* **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate responses in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution to this group project was the implementation of Twilio for the backend. 
 * **Phone Directory** and other web applications made using ReactJS. <br>
 * **Report Card Generator and Attendance Tracker**  <br>
-An application made using Python that is used to help teachers track progress and attendance of students with the help of graphs and feedbacks. GUI was implemented using Tkinter. Database used was MySQL. <br>
-* **IBM Watson Chatbot** <br> Chatbot that suggests courses to users based on their interests, made using IBM's Watson Assistant for a university project. 
+An application made using Python that is used to help teachers track the progress and attendance of students with the help of graphs and feedback. GUI was implemented using Tkinter. The database used was MySQL. <br>
+* **IBM Watson Chatbot** <br> Chatbot which suggests courses to users based on their interests, using IBM's Watson Assistant for a university project. 
