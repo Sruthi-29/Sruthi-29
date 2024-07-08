@@ -1,5 +1,5 @@
 # Profile <br>
-Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I am a final year Computer Science Student at Durham University. 
+Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. 
 
 [View Linkedin Profile](https://www.linkedin.com/in/sruthi-s-885b11190/)
 
@@ -26,7 +26,7 @@ Hi, I am Sruthi, and this is my GitHub profile showcasing my technical skills. I
 * Won the Versatile, Genius and Specialist Awards in high school.
 
 ## Projects <br>
-* **Data Science and Machine Learning University Projects** <br> Image Processing of eyes using OpenCV, Data Cleaning and Analysis using pandas and seaborn. K-Nearest Neighbours algorithm implementation to train a model to estimate obesity levels among people, with high accuracy. 
+* **Data Science and Machine Learning University Projects** <br> Image Processing of eyes using OpenCV, Data Cleaning and Analysis using pandas and seaborn. K-Nearest Neighbours algorithm implementation to train a model to estimate obesity levels among people, with high accuracy. My final year dissertation project was Energy Management in Smart Homes using Machine Learning and Recommender Systems. It provides a time slot recommender system based on collaborative filtering to smart home users to suggest the least cost time slots in multiple appliance schedules built using various ML models. 
 * **Sentiment Analyser**  <br> A platform to receive customer queries via SMS and send appropriate responses in order of priority. This project was developed within 24 hours using Twilio, Firebase and other technologies. My main contribution to this group project was the implementation of Twilio for the backend. 
 * **Phone Directory** and other web applications made using ReactJS. <br>
 * **Report Card Generator and Attendance Tracker**  <br>
